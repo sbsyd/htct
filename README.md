@@ -1,5 +1,5 @@
 # htct
-HTCT
+HTCT [![Build Status](https://travis-ci.org/sbsyd/htct.svg?branch=master)](https://travis-ci.org/sbsyd/htct)
 
 ## Installation:
 
